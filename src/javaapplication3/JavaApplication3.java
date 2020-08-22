@@ -33,7 +33,7 @@ public class JavaApplication3 {
         }
         
         System.out.println(Arrays.toString(vec1));
-        System.out.println("Pos: ");
+        System.out.println("Ingrese dato");
         int j = a.nextInt();
 //        for (int i = 0; i < n; i++) {
 //            if (i != j) {
